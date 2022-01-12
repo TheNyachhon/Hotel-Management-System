@@ -1,5 +1,5 @@
-create database Hotel_MS;
-use Hotel_MS;
+create database hotelms;
+use hotelms;
 
 create table customer(
     Customer_ID int,
